@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavigationStudy3</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="exit">Exit</string>
+    <string name="extended_menu">Extended menu</string>
+</resources>
